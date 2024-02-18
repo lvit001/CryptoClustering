@@ -11,6 +11,7 @@
 - Use k-means to find the PCA data points' best clusters
 - Graph the clusters and color-code based on the k-means predictions
 - Create two composite graphs to compare the elbow curve graphs and the cluster scatter plots
+- Answer analysis questions throughout the code file
 ### Graphs:
 - ![image](https://github.com/lvit001/CryptoClustering/assets/140283164/b1d2560c-ce5a-41d3-b7f4-0b529c95dfb0)
 - ![image](https://github.com/lvit001/CryptoClustering/assets/140283164/a3a970a4-3cd2-4843-9328-add61b3448a6)
