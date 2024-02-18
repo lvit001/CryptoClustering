@@ -2,7 +2,7 @@
 ### Goal of Project:
 - Utilize Python and unsupervised learning to predict how price changes affect cryptocurrencies.
 ### Deliverables:
-- Scale the original data
+- Scale the original data using `StandardScaler()`
 - Calculate inertia and create an elbow curve graph to determine the best k-value
 - Use k-means to find the data points' best clusters
 - Graph the clusters and color-code based on the k-means predictions
